@@ -1,0 +1,2 @@
+# SqlAddIDtoSQL_ExcelAddIDtosql
+#对sqlite3数据库中增加一列id#读取excel依次加入数据库，重复更新，不重复加上id放入数据库
